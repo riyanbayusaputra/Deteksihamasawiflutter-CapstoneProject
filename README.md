@@ -1,4 +1,4 @@
-# coba
+# Capstone project APP deteksi hama sawi
 
 A new Flutter project.
 
